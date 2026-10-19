@@ -37,7 +37,7 @@
             "default_value": "16",
             "user_viewable": true,
             "user_editable": true,
-            "rules": "required|integer|between:1,31",
+            "rules": "required|integer|between:1,64",
             "field_type": "text"
         },
         {
